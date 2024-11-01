@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(0, 177, 177);
+}
+
+#button{
+    color: black;
+    display: block;
+    padding: 16px;
+    /* width: 30%; */
+}
