@@ -1,0 +1,1 @@
+<a href="https://www.flaticon.com/br/icones-gratis/bola-de-cristal" title="bola de cristal ícones" target="_blank">Bola de cristal ícones criados por Freepik - Flaticon</a>
